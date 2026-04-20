@@ -119,3 +119,17 @@ Utilice la siguiente tabla para organizar su respuesta final a manera de compara
 | Mecánicas y capacidades de movimiento      | Ambos jugadores tienen piezas con movimientos equivalentes o similares. | Los tigres pueden moverse y capturar; las cabras solo se colocan o mueven, pero no capturan. |
 | Complejidad de la fase inicial del juego   | Generalmente ambos jugadores parten de posiciones equivalentes y con información completa. | El juego tiene fases diferenciadas: primero se colocan cabras, luego se mueven; los tigres siempre están en las esquinas al inicio. |
 | Estrategia de entrenamiento por refuerzo   | El agente puede aprender estrategias generales válidas para ambos bandos. | El agente debe aprender estrategias especializadas y asimétricas para cada bando, adaptándose a objetivos y capacidades distintas. |
+
+### Bibliografía
+
+AlphaZero: Silver, D., Schrittwieser, J., Simonyan, K., Antonoglou, I., Huang, A., Guez, A., ... & Hassabis, D. (2017). Mastering the game of Go without human knowledge. Nature, 550(7676), 354-359. https://doi.org/10.1038/nature24270
+
+Russell, S., & Norvig, P. (2021). Artificial Intelligence: A Modern Approach (4th ed.). Pearson.
+
+Sutton, R. S., & Barto, A. G. (2018). Reinforcement Learning: An Introduction (2nd ed.). MIT Press. http://incompleteideas.net/book/the-book-2nd.html
+
+Bagh-Chal: Dutta, S., & Bhattacharya, S. (2015). Bagh-Chal: A traditional board game from Nepal and its computational analysis. International Journal of Computer Applications, 120(3), 1-6. https://doi.org/10.5120/21241-4202
+
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press. https://www.deeplearningbook.org/
+
+GitHub Copilot. (2026). Asistente de programación con IA (versión GPT-4.1) [Herramienta de software]. Microsoft. https://github.com/features/copilot
